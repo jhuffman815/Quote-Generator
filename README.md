@@ -1,6 +1,7 @@
 # Random Quote Machine - An Intermediate Front End Development Project
 
 Generates inspirational quotes using Forismatic API. The user can share the quotes on Facebook and Twitter.
+See the live demo here: https://jhuffman815.github.io/Quote-Generator/
 
 ## Challenge Details from FreeCodeCamp
 
