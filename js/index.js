@@ -20,8 +20,7 @@ var fbShareDialogParams = {
   display: 'popup',
   mobile_iframe: true,
   href: 'https://github.com/jhuffman815/Quote-Generator',
-  picture: 'https://res.cloudinary.com/maribelduran/image' +
-    '/upload/v1472088347/Random%20Quote%20Generator/up-in-the-clouds-1500x997_wg6jaw.jpg',
+  picture: '/img/image1.jpg',
   description: 'Read inspirational quotes and share with friends on Facebook and Twitter.',
   caption: 'BY JEWELL HUFFMAN',
   quote: '',
